@@ -1,0 +1,25 @@
+@import url('https://fonts.cdnfonts.com/css/lower-pixel');
+
+body {
+    display:flex;
+    padding: 0;
+    margin: 0;
+    font-family: "Lower Pixel", Sans-serif;
+    background-color: #1a1a1a;
+    font-size: 3rem;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+#container_central {
+    display: flex;
+    align-items: center;
+    border: 3px solid #fff;
+    box-shadow: rgba(0 0 0 0.3);
+    width: 600px;
+    padding: 20px;
+    flex-direction: column;
+    background-color: #7694ceb9;
+}
